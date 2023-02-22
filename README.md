@@ -5,6 +5,12 @@
 </div>
 
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://www.linkedin.com/in/ekaterina-chabanova/&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 
 <!--
 **chabanova-ekaterina/chabanova-ekaterina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
