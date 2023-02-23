@@ -8,10 +8,16 @@
 
 ---
 <h1 class="h1" align="center">Connect with me</h1>
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div align="center">
+<a href="https://github.com/chabanova-ekaterina" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ekaterina-chabanova/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/-Facebook-blue&style=for-the-badge&logo=linkedin&logoColor=white alt="" style="margin-bottom: 5px;" />
+</a>  
 </div>
 
 ---
@@ -28,19 +34,42 @@
 </div>
 
 ---
+<div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/esnovichkova/)
+</div>
+
 
 ---
+<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chabanova-ekaterina&theme=midnight-purple&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+</div>
+
 
 ---
+<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabanova-ekaterina&show_icons=true&theme=midnight-purple)
+</div>
 
 ---
+
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabanova-ekaterina&layout=compact&theme=midnight-purple)](https://github.com/chabanova-ekaterina/github-readme-stats)
+  
+</div>
 
 ---
+
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=chabanova-ekaterina&&style=flat-square" align="center" />
+</div>
+
+
 
 
 <!--
