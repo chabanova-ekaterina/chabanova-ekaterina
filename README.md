@@ -30,10 +30,10 @@
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xr_h9yg6-ZmftS_UPwg11sYQquvK4-0t"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1N_kMTKkw-EMrdpKwri54SKRmNotLEEH2" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1OggP9DdM0zLIRX2L3ok7WzX-SXLow6oi" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1yKsaRV6ttuPvi8cbGbu_U-OJWDjhAtop" title="MySQL"  alt="MySQL" width="100" height="40"/>&nbsp;
-  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1bT8xerzZ_L4P9KnG-pPrs8VNYfLfH_Xk" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1yKsaRV6ttuPvi8cbGbu_U-OJWDjhAtop" title="MySQL"  alt="MySQL" width="130" height="40"/>&nbsp;
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1E7DP_ALjMakjm-GAJGWZH11vBEapHY4N" title="Jira" alt="Jira" width="100" height="40"/>
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1bT8xerzZ_L4P9KnG-pPrs8VNYfLfH_Xk" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xWNp27gQAPgkUPyBRavg47CIReewe8fT" title="Figma" **alt="Figma" width="40" height="40"/>
-  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1E7DP_ALjMakjm-GAJGWZH11vBEapHY4N" title="Jira" **alt="Jira" width="100" height="40"/>
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1hdw3eZFGswGVgZX19krDZ-94tUowdJpT" title="Postman" **alt="Postman" width="40" height="40"/>
 </div>
 
@@ -71,5 +71,5 @@
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=chabanova-ekaterina&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=chabanova-ekaterina&&style=flat-square" align="center" width="180" height="40"/>
 </div>
