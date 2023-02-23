@@ -22,16 +22,19 @@
 </div>
 
 ---
+
+
+
 <!-- -->
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="Figma" **alt="Figma" width="100" height="40"/>
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" title="Jira" **alt="Jira" width="100" height="40"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman" **alt="Postman" width="100" height="40"/>
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xr_h9yg6-ZmftS_UPwg11sYQquvK4-0t"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1N_kMTKkw-EMrdpKwri54SKRmNotLEEH2" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1OggP9DdM0zLIRX2L3ok7WzX-SXLow6oi" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1yKsaRV6ttuPvi8cbGbu_U-OJWDjhAtop" title="MySQL"  alt="MySQL" width="100" height="40"/>&nbsp;
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1bT8xerzZ_L4P9KnG-pPrs8VNYfLfH_Xk" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xWNp27gQAPgkUPyBRavg47CIReewe8fT" title="Figma" **alt="Figma" width="40" height="40"/>
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1E7DP_ALjMakjm-GAJGWZH11vBEapHY4N" title="Jira" **alt="Jira" width="100" height="40"/>
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1hdw3eZFGswGVgZX19krDZ-94tUowdJpT" title="Postman" **alt="Postman" width="40" height="40"/>
 </div>
 
 ---
