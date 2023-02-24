@@ -6,10 +6,10 @@
   <img src="https://media.giphy.com/media/Aa3k6VDl2EDauCyE6U/giphy.gif" width="300"/>  
 </div>
 
----
 <!--Connect with me -->
 <h3 align="center" target="_blank">Connect with me</h3>
 <div align="center">
+  
 <a href="https://github.com/chabanova-ekaterina" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -21,11 +21,15 @@
 </a>  
 </div>
 
+<!--Facebook -->
+<div align="center" target="_blank">
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/esnovichkova/)
+</div>
+
 ---
-
-
-
-<!-- -->
+<!-- Tools -->
+<h3 align="center" target="_blank">Tools</h3>
 <div align="center">
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xr_h9yg6-ZmftS_UPwg11sYQquvK4-0t"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1N_kMTKkw-EMrdpKwri54SKRmNotLEEH2" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -37,12 +41,7 @@
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1hdw3eZFGswGVgZX19krDZ-94tUowdJpT" title="Postman" **alt="Postman" width="40" height="40"/>
 </div>
 
----
-<!--Facebook -->
-<div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/esnovichkova/)
-</div>
 
 
 ---
