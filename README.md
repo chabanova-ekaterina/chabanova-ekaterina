@@ -11,7 +11,7 @@
 <div align="center">
   
 <a href="https://github.com/chabanova-ekaterina" target="_blank">
-<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1C3WmweDBKL7qXBVyOCiN8duKy5EP4eaz alt=github style="margin-bottom: 5px;" />
+<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13hhL9bLUOIWBKQ48YdlJdryhbpYaDGKE alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ekaterina-chabanova/" target="_blank">
 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1ytKqYCGmV7kUCD1JCPfTmSBSb-1u3T8Z alt=linkedin style="margin-bottom: 5px;" />
@@ -20,7 +20,7 @@
 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1pdIdzSmi8fV2XIaJEyz3LwdKDaIK4Jps alt="" style="margin-bottom: 5px;" />
 </a>  
 <a href="" target="_blank">
-<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1bqPbIeuhCBeHdMrP8ecIQs2M8QhchsGK alt="" style="margin-bottom: 5px;" />
+<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1t3kMiH3SWm3wJYc6FeDmrgO80CpKaOCe alt="Gmail" style="margin-bottom: 5px;" />
 </a> 
 <a href="" target="_blank">
 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1qAFURSZT7vtrW8DsN_f1vokaDcMf34O2 alt="" style="margin-bottom: 5px;" />
