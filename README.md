@@ -17,16 +17,16 @@
 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1ytKqYCGmV7kUCD1JCPfTmSBSb-1u3T8Z alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/esnovichkova/" target="_blank">
-<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1pdIdzSmi8fV2XIaJEyz3LwdKDaIK4Jps alt="" style="margin-bottom: 5px;" />
+<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1pdIdzSmi8fV2XIaJEyz3LwdKDaIK4Jps alt="Facebook" style="margin-bottom: 5px;" />
 </a>  
 <a href="" target="_blank">
 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1t3kMiH3SWm3wJYc6FeDmrgO80CpKaOCe alt="Gmail" style="margin-bottom: 5px;" />
 </a> 
 <a href="" target="_blank">
-<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1qAFURSZT7vtrW8DsN_f1vokaDcMf34O2 alt="" style="margin-bottom: 5px;" />
+<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1qAFURSZT7vtrW8DsN_f1vokaDcMf34O2 alt="WhatsApp" style="margin-bottom: 5px;" />
 </a> 
 <a href="" target="_blank">
-<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1vtwM_2ar5bkqrwtpcrKoOERcZHRSARa_ alt="" style="margin-bottom: 5px;" />
+<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1vtwM_2ar5bkqrwtpcrKoOERcZHRSARa_ alt="Zoom" style="margin-bottom: 5px;" />
 </a>
 </div>
 
