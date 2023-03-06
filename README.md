@@ -19,10 +19,10 @@
 <a href="https://www.facebook.com/esnovichkova/" target="_blank">
 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1pdIdzSmi8fV2XIaJEyz3LwdKDaIK4Jps alt="Facebook" style="margin-bottom: 5px;" />
 </a>  
-<a href="href="https://mail.google.com/mail/?view=cm&fs=1&to=chabanova.ca@gmail.com&su=Reply to resume&body=Hello, please send me an email. I will definitely answer it." target="_blank"><ion-icon name="mail-open-outline" target="_blank">
+<a href="href="https://mail.google.com/mail/?view=cm&fs=1&to=chabanova.ca@gmail.com&su=Reply to resume&body=Hello, please send me an email. I will definitely answer it." target="_blank">
 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1t3kMiH3SWm3wJYc6FeDmrgO80CpKaOCe alt="Gmail" style="margin-bottom: 5px;" />
 </a> 
-<a href="https://wa.me/9209952191?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82..." target="_blank">
+<a href="https://wa.me/9209952191?text=Hello"_blank">
 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1qAFURSZT7vtrW8DsN_f1vokaDcMf34O2 alt="WhatsApp" style="margin-bottom: 5px;" />
 </a> 
 </div>
