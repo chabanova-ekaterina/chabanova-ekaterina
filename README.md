@@ -36,6 +36,7 @@
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1OggP9DdM0zLIRX2L3ok7WzX-SXLow6oi" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1yKsaRV6ttuPvi8cbGbu_U-OJWDjhAtop" title="MySQL"  alt="MySQL" width="130" height="40"/>&nbsp;
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1E7DP_ALjMakjm-GAJGWZH11vBEapHY4N" title="Jira" alt="Jira" width="120" height="40"/>
+  <img src="  https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1S6y0VMyMyUM3Vnk9dc-70Jh-GiWo5EK8" title="Markdown" alt="Markdown" width="40" height="40"/>  
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=12MeStk18_wob2szY-eBNSSVBNdu9eazL" title="VS" alt="VS" width="40" height="40"/>
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1bT8xerzZ_L4P9KnG-pPrs8VNYfLfH_Xk" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xWNp27gQAPgkUPyBRavg47CIReewe8fT" title="Figma" **alt="Figma" width="40" height="40"/>
@@ -74,4 +75,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=chabanova-ekaterina&&style=flat-square" align="center" width="180" height="40"/>
 </div>
+
 
