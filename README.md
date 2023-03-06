@@ -43,9 +43,6 @@
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1hdw3eZFGswGVgZX19krDZ-94tUowdJpT" title="Postman" **alt="Postman" width="40" height="40"/>
 </div>
 
-
-
-
 ---
 
 <!--Streak Stats -->
@@ -72,6 +69,7 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=chabanova-ekaterina&theme=high-contrast&hide_border=true&area=true)
 
 ---
+<!--counter-->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=chabanova-ekaterina&&style=flat-square" align="center" width="180" height="40"/>
 </div>
