@@ -19,7 +19,7 @@
 <a href="https://www.facebook.com/esnovichkova/" target="_blank">
 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1pdIdzSmi8fV2XIaJEyz3LwdKDaIK4Jps alt="Facebook" style="margin-bottom: 5px;" />
 </a>  
-<a href="href="https://mail.google.com/mail/?view=cm&fs=1&to=chabanova.ca@gmail.com&su=Reply to resume&body=Hello, please send me an email. I will definitely answer it." target="_blank">
+<a href="href="mailto:chabanova.ca@gmail.com?subject=From%20GitHub&body=Please%20write%20your%20message%20here%2C%20I%20will%20answer%20it%20as%20soon%20as%20possible." target="_blank">
 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1t3kMiH3SWm3wJYc6FeDmrgO80CpKaOCe alt="Gmail" style="margin-bottom: 5px;" />
 </a> 
 <a href="https://wa.me/9209952191?text=Hello"_blank">
