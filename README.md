@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/ekaterina-chabanova/" target="_blank">
 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1ytKqYCGmV7kUCD1JCPfTmSBSb-1u3T8Z alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/esnovichkova/" target="_blank">
+<a href="https://www.facebook.com/chabanovaekaterina/" target="_blank">
 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1pdIdzSmi8fV2XIaJEyz3LwdKDaIK4Jps alt="Facebook" style="margin-bottom: 5px;" />
 </a>  
 <a href="href="mailto:chabanova.ca@gmail.com" target="_blank">
