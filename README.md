@@ -11,20 +11,23 @@
 <div align="center">
   
 <a href="https://github.com/chabanova-ekaterina" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1C3WmweDBKL7qXBVyOCiN8duKy5EP4eaz alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ekaterina-chabanova/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1ytKqYCGmV7kUCD1JCPfTmSBSb-1u3T8Z alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/-Facebook-blue&style=for-the-badge&logo=linkedin&logoColor=white alt="" style="margin-bottom: 5px;" />
+<a href="https://www.facebook.com/esnovichkova/" target="_blank">
+<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1pdIdzSmi8fV2XIaJEyz3LwdKDaIK4Jps alt="" style="margin-bottom: 5px;" />
 </a>  
-</div>
-
-<!--Facebook -->
-<div align="center" target="_blank">
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/esnovichkova/)
+<a href="" target="_blank">
+<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1bqPbIeuhCBeHdMrP8ecIQs2M8QhchsGK alt="" style="margin-bottom: 5px;" />
+</a> 
+<a href="" target="_blank">
+<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1vtwM_2ar5bkqrwtpcrKoOERcZHRSARa_ alt="" style="margin-bottom: 5px;" />
+</a> 
+<!--<a href="" target="_blank">
+<img src= alt="" style="margin-bottom: 5px;" />
+</a> -->
 </div>
 
 ---
