@@ -68,12 +68,10 @@
   
 </div>
 
----
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=chabanova-ekaterina&theme=high-contrast&hide_border=true&area=true)
 
+---
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=chabanova-ekaterina&&style=flat-square" align="center" width="180" height="40"/>
 </div>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=chabanova-ekaterina&theme=high-contrast&hide_border=true&area=true)
-
 
