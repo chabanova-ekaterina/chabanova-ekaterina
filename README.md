@@ -71,7 +71,7 @@
 ---
 <!--counter-->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=chabanova-ekaterina&&style=flat-square" align="center" width="180" height="40"/>
+<img src="https://komarev.com/ghpvc/?username=chabanova-ekaterina&&style=flat-square" align="center" width="180" height="35"/>
 </div>
 
 
