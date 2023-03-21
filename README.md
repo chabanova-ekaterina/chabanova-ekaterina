@@ -82,5 +82,5 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/W55aS2VNgtUWLAij2S/giphy.gif" width="300"/>  
-  <img src="https://media.giphy.com/media/YPKMYvgpJf7ZTl0OIk/giphy.gif" width="300"/>  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTMwMzJiZmE0MzU5YmJjNjc4MjU3OWU1Mzg2YjNlMTk4ZTBhNDNkNCZjdD1n/JPgbkckJHW1vSWknU5/giphy.gif" width="300"/>  
 </div>
