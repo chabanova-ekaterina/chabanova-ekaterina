@@ -78,4 +78,4 @@
 <img src="https://komarev.com/ghpvc/?username=chabanova-ekaterina&&style=flat-square" align="center" width="180" height="35"/>
 </div>
 
-<h1 align="center">Nice to meet you! Write me</h1>
+<h1 align="center"> Nice to meet you! Write me... :memo: :heart:  </h1>
