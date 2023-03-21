@@ -41,7 +41,7 @@
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1bT8xerzZ_L4P9KnG-pPrs8VNYfLfH_Xk" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xWNp27gQAPgkUPyBRavg47CIReewe8fT" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1hdw3eZFGswGVgZX19krDZ-94tUowdJpT" title="Postman" **alt="Postman" width="40" height="40"/>
-  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1gpkpzeiJixXz8CuE-sViWpQRppTjzPE5" title="DBeaver" **alt="DBeaver" width="40" height="40"/>
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1gpkpzeiJixXz8CuE-sViWpQRppTjzPE5" title="DBeaver" **alt="DBeaver" width="140" height="40"/>
 
 </div>
 
