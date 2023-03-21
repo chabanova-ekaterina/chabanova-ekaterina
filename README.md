@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone here is a little information about me</h1>
+<h1 align="center">:star2: Hello everyone here is a little information about me :star2:</h1>
 <div id="header" align="center">
 <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1C0B-FO2O4rx_9wctam-Nfm-r63BXJhuv" />
 </div>
