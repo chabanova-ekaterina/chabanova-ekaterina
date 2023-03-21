@@ -79,3 +79,7 @@
 </div>
 
 <h1 align="center"> Nice to meet you! Write me... :memo: :heart:  </h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/W55aS2VNgtUWLAij2S/giphy.gif" width="300"/>  
+</div>
