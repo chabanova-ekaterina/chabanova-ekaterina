@@ -41,10 +41,11 @@
 
 <div align="center">
         <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1hdw3eZFGswGVgZX19krDZ-94tUowdJpT" title="Postman" **alt="Postman" width="40" height="40"/>
+        <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xWNp27gQAPgkUPyBRavg47CIReewe8fT" title="Figma" **alt="Figma" width="40" height="40"/>
         <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1yKsaRV6ttuPvi8cbGbu_U-OJWDjhAtop" title="MySQL"  alt="MySQL" width="130" height="40"/>&nbsp;
        <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1E7DP_ALjMakjm-GAJGWZH11vBEapHY4N" title="Jira" alt="Jira" width="120" height="40"/>
         <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1gpkpzeiJixXz8CuE-sViWpQRppTjzPE5" title="DBeaver" **alt="DBeaver" width="140" height="40"/>
-        <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xWNp27gQAPgkUPyBRavg47CIReewe8fT" title="Figma" **alt="Figma" width="40" height="40"/>
+
         
 </div>
 
