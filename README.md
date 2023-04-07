@@ -9,7 +9,6 @@
 <!--Connect with me -->
 <h3 align="center" target="_blank">:pager: Connect with me :pager:</h3>
     <div align="center">
-
             <a href="https://github.com/chabanova-ekaterina" target="_blank">
                 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13hhL9bLUOIWBKQ48YdlJdryhbpYaDGKE alt=github style="margin-bottom: 5px;" />
             </a>
