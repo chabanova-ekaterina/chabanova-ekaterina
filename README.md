@@ -66,7 +66,7 @@
 <!--Hide Progress Bars -->
 <div align="center">
   
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabanova-ekaterina&layout=compact&theme=midnight-purple)](https://github.com/chabanova-ekaterina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabanova-ekaterina&layout=compact&theme=midnight-purple)](https://github.com/chabanova-ekaterina/github-readme-stats)
   
 </div>
 
