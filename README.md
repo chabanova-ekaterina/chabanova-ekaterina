@@ -11,19 +11,19 @@
 <div align="center">
   
 <a href="https://github.com/chabanova-ekaterina" target="_blank">
-<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13hhL9bLUOIWBKQ48YdlJdryhbpYaDGKE alt=github style="margin-bottom: 5px;" />
+    <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13hhL9bLUOIWBKQ48YdlJdryhbpYaDGKE alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ekaterina-chabanova/" target="_blank">
-<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1ytKqYCGmV7kUCD1JCPfTmSBSb-1u3T8Z alt=linkedin style="margin-bottom: 5px;" />
+    <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1ytKqYCGmV7kUCD1JCPfTmSBSb-1u3T8Z alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="href="mailto:chabanova.ca@gmail.com" target="_blank">
-<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1t3kMiH3SWm3wJYc6FeDmrgO80CpKaOCe alt="Gmail" style="margin-bottom: 5px;" />
+    <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1t3kMiH3SWm3wJYc6FeDmrgO80CpKaOCe alt="Gmail" style="margin-bottom: 5px;" />
 </a> 
 <a href="https://www.facebook.com/chabanovaekaterina/" target="_blank">
-<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1pdIdzSmi8fV2XIaJEyz3LwdKDaIK4Jps alt="Facebook" style="margin-bottom: 5px;" />
+    <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1pdIdzSmi8fV2XIaJEyz3LwdKDaIK4Jps alt="Facebook" style="margin-bottom: 5px;" />
 </a>  
 <a href="https://wa.me/9209952191?text=Hello"_blank">
-<img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1qAFURSZT7vtrW8DsN_f1vokaDcMf34O2 alt="WhatsApp" style="margin-bottom: 5px;" />
+    <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1qAFURSZT7vtrW8DsN_f1vokaDcMf34O2 alt="WhatsApp" style="margin-bottom: 5px;" />
 </a> 
 </div>
 
@@ -54,20 +54,20 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chabanova-ekaterina&theme=midnight-purple&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+        [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chabanova-ekaterina&theme=midnight-purple&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 </div>
 
 
 <!--Stats -->
   <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabanova-ekaterina&show_icons=true&theme=midnight-purple)
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabanova-ekaterina&show_icons=true&theme=midnight-purple)
   </div>  
 
 <!--Hide Progress Bars -->
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabanova-ekaterina&layout=compact&theme=midnight-purple)](https://github.com/chabanova-ekaterina/github-readme-stats)
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabanova-ekaterina&layout=compact&theme=midnight-purple)](https://github.com/chabanova-ekaterina/github-readme-stats)
   
 </div>
 
@@ -76,7 +76,7 @@
 ---
 <!--counter-->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=chabanova-ekaterina&&style=flat-square" align="center" width="180" height="35"/>
+        <img src="https://komarev.com/ghpvc/?username=chabanova-ekaterina&&style=flat-square" align="center" width="180" height="35"/>
 </div>
 
 <h1 align="center"> Nice to meet you! Write me... :memo: :heart:  </h1>
