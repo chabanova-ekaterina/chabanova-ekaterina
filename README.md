@@ -1,14 +1,14 @@
 <h1 align="center">:star2: Hello everyone here is a little information about me :star2: </h1>
-    <div id="header" align="center">
+<div id="header" align="center">
             <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1C0B-FO2O4rx_9wctam-Nfm-r63BXJhuv" />
     </div>
     <div id="header" align="center">
             <img src="https://media.giphy.com/media/Aa3k6VDl2EDauCyE6U/giphy.gif" width="300"/>  
-    </div>
+</div>
 
 <!--Connect with me -->
 <h3 align="center" target="_blank">:pager: Connect with me :pager:</h3>
-    <div align="center">
+<div align="center">
             <a href="https://github.com/chabanova-ekaterina" target="_blank">
                 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13hhL9bLUOIWBKQ48YdlJdryhbpYaDGKE alt=github style="margin-bottom: 5px;" />
             </a>
@@ -24,19 +24,19 @@
             <a href="https://wa.me/9209952191?text=Hello"_blank">
                 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1qAFURSZT7vtrW8DsN_f1vokaDcMf34O2 alt="WhatsApp" style="margin-bottom: 5px;" />
             </a> 
-    </div>
+</div>
 
 ---
 <!-- Tools -->
 <h3 align="center" target="_blank"> :hammer: Tools :hammer: </h3>
-        <div align="center">
+<div align="center">
                 <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xr_h9yg6-ZmftS_UPwg11sYQquvK4-0t"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
                 <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1N_kMTKkw-EMrdpKwri54SKRmNotLEEH2" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
                 <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1OggP9DdM0zLIRX2L3ok7WzX-SXLow6oi" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
                 <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1S6y0VMyMyUM3Vnk9dc-70Jh-GiWo5EK8" title="Markdown" alt="Markdown" width="60" height="40"/>  
                 <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=12MeStk18_wob2szY-eBNSSVBNdu9eazL" title="VS" alt="VS" width="40" height="40"/>
                 <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1bT8xerzZ_L4P9KnG-pPrs8VNYfLfH_Xk" title="Git" alt="Git" width="40" height="40"/>
-        </div>
+</div>
 
 <div align="center">
         <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xWNp27gQAPgkUPyBRavg47CIReewe8fT" title="Figma" **alt="Figma" width="40" height="40"/>
@@ -81,6 +81,6 @@
 <h1 align="center"> Nice to meet you! Write me... :memo: :heart:  </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/W55aS2VNgtUWLAij2S/giphy.gif" width="300"/>  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTMwMzJiZmE0MzU5YmJjNjc4MjU3OWU1Mzg2YjNlMTk4ZTBhNDNkNCZjdD1n/JPgbkckJHW1vSWknU5/giphy.gif" width="300"/>  
+        <img src="https://media.giphy.com/media/W55aS2VNgtUWLAij2S/giphy.gif" width="300"/>  
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTMwMzJiZmE0MzU5YmJjNjc4MjU3OWU1Mzg2YjNlMTk4ZTBhNDNkNCZjdD1n/JPgbkckJHW1vSWknU5/giphy.gif" width="300"/>  
 </div>
