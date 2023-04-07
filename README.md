@@ -59,7 +59,8 @@
 
 <!--Stats -->
   <div align="center">
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabanova-ekaterina&show_icons=true&theme=midnight-purple)
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabanova-ekaterina&show_icons=true&theme=midnight-purple)
   </div>  
 
 <!--Hide Progress Bars -->
