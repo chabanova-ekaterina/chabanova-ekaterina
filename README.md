@@ -1,31 +1,31 @@
 <h1 align="center">:star2: Hello everyone here is a little information about me :star2: </h1>
-<div id="header" align="center">
-<img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1C0B-FO2O4rx_9wctam-Nfm-r63BXJhuv" />
-</div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Aa3k6VDl2EDauCyE6U/giphy.gif" width="300"/>  
-</div>
+    <div id="header" align="center">
+            <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1C0B-FO2O4rx_9wctam-Nfm-r63BXJhuv" />
+    </div>
+    <div id="header" align="center">
+            <img src="https://media.giphy.com/media/Aa3k6VDl2EDauCyE6U/giphy.gif" width="300"/>  
+    </div>
 
 <!--Connect with me -->
 <h3 align="center" target="_blank">:pager: Connect with me :pager:</h3>
-<div align="center">
-  
-<a href="https://github.com/chabanova-ekaterina" target="_blank">
-    <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13hhL9bLUOIWBKQ48YdlJdryhbpYaDGKE alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ekaterina-chabanova/" target="_blank">
-    <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1ytKqYCGmV7kUCD1JCPfTmSBSb-1u3T8Z alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="href="mailto:chabanova.ca@gmail.com" target="_blank">
-    <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1t3kMiH3SWm3wJYc6FeDmrgO80CpKaOCe alt="Gmail" style="margin-bottom: 5px;" />
-</a> 
-<a href="https://www.facebook.com/chabanovaekaterina/" target="_blank">
-    <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1pdIdzSmi8fV2XIaJEyz3LwdKDaIK4Jps alt="Facebook" style="margin-bottom: 5px;" />
-</a>  
-<a href="https://wa.me/9209952191?text=Hello"_blank">
-    <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1qAFURSZT7vtrW8DsN_f1vokaDcMf34O2 alt="WhatsApp" style="margin-bottom: 5px;" />
-</a> 
-</div>
+    <div align="center">
+
+            <a href="https://github.com/chabanova-ekaterina" target="_blank">
+                <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13hhL9bLUOIWBKQ48YdlJdryhbpYaDGKE alt=github style="margin-bottom: 5px;" />
+            </a>
+            <a href="https://linkedin.com/in/ekaterina-chabanova/" target="_blank">
+                <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1ytKqYCGmV7kUCD1JCPfTmSBSb-1u3T8Z alt=linkedin style="margin-bottom: 5px;" />
+            </a>
+            <a href="href="mailto:chabanova.ca@gmail.com" target="_blank">
+                <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1t3kMiH3SWm3wJYc6FeDmrgO80CpKaOCe alt="Gmail" style="margin-bottom: 5px;" />
+            </a> 
+            <a href="https://www.facebook.com/chabanovaekaterina/" target="_blank">
+                <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1pdIdzSmi8fV2XIaJEyz3LwdKDaIK4Jps alt="Facebook" style="margin-bottom: 5px;" />
+            </a>  
+            <a href="https://wa.me/9209952191?text=Hello"_blank">
+                <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1qAFURSZT7vtrW8DsN_f1vokaDcMf34O2 alt="WhatsApp" style="margin-bottom: 5px;" />
+            </a> 
+    </div>
 
 ---
 <!-- Tools -->
