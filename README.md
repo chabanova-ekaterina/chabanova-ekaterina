@@ -56,17 +56,17 @@
 
 
 <!--Stats -->
-<!--  <div align="center">
+ <div align="center">
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chabanova-ekaterina&show_icons=true&theme=midnight-purple)
-  </div>  -->
+  </div> 
 
 <!--Hide Progress Bars -->
-<!-- <div align="center">
+ <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabanova-ekaterina&layout=compact&theme=midnight-purple)](https://github.com/chabanova-ekaterina/github-readme-stats) 
   
-</div> -->
+</div> 
 
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=chabanova-ekaterina&theme=high-contrast&hide_border=true&area=true) -->
 
