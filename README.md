@@ -20,10 +20,7 @@
             </a> 
             <a href="https://www.facebook.com/chabanovaekaterina/" target="_blank">
                 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1pdIdzSmi8fV2XIaJEyz3LwdKDaIK4Jps alt="Facebook" style="margin-bottom: 5px;" />
-            </a>  
-            <a href="https://wa.me/9209952191?text=Hello"_blank">
-                <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1qAFURSZT7vtrW8DsN_f1vokaDcMf34O2 alt="WhatsApp" style="margin-bottom: 5px;" />
-            </a> 
+            </a>              
 </div>
 
 ---
