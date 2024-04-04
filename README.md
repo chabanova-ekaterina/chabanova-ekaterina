@@ -18,10 +18,11 @@
             <a href="href="mailto:chabanova.ca@gmail.com" target="_blank">
                 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1t3kMiH3SWm3wJYc6FeDmrgO80CpKaOCe alt="Gmail" style="margin-bottom: 5px;" />
             </a> 
-            
+            <!--
             <a href="https://www.facebook.com/chabanovaekaterina/" target="_blank">
                 <img src=https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1pdIdzSmi8fV2XIaJEyz3LwdKDaIK4Jps alt="Facebook" style="margin-bottom: 5px;" />
             </a>              
+            -->
 </div>
 
 ---
