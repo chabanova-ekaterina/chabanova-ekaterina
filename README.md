@@ -29,14 +29,19 @@
 <!-- Tools -->
 <h3 align="center" target="_blank"> :hammer: Tools :hammer: </h3>
 <div align="center">
-                <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xr_h9yg6-ZmftS_UPwg11sYQquvK4-0t"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-                <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1N_kMTKkw-EMrdpKwri54SKRmNotLEEH2" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-                <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1OggP9DdM0zLIRX2L3ok7WzX-SXLow6oi" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-                <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1S6y0VMyMyUM3Vnk9dc-70Jh-GiWo5EK8" title="Markdown" alt="Markdown" width="60" height="40"/>
-                <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1bT8xerzZ_L4P9KnG-pPrs8VNYfLfH_Xk" title="Git" alt="Git" width="40" height="40"/>
-            <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
+    <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xr_h9yg6-ZmftS_UPwg11sYQquvK4-0t"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+    <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1N_kMTKkw-EMrdpKwri54SKRmNotLEEH2" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1OggP9DdM0zLIRX2L3ok7WzX-SXLow6oi" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1S6y0VMyMyUM3Vnk9dc-70Jh-GiWo5EK8" title="Markdown" alt="Markdown" width="60" height="40"/>&nbsp;
+    <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1bT8xerzZ_L4P9KnG-pPrs8VNYfLfH_Xk" title="Git" alt="Git" width="40" height="40"/>
+    <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="YouTrack" alt="YouTrack" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" title="Sanity" alt="Sanity" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/sentry-3.svg" title="Sentry" alt="Sentry" width="40" height="40"/>
+    </p>
+</div>
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
 <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>
