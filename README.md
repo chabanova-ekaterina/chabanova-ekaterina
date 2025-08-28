@@ -29,6 +29,7 @@
 <!-- Tools -->
 <h3 align="center" target="_blank"> :hammer: Tools :hammer: </h3>
 <div align="center">
+    <!-- Первая строка -->
     <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1xr_h9yg6-ZmftS_UPwg11sYQquvK4-0t" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
     <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1N_kMTKkw-EMrdpKwri54SKRmNotLEEH2" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1OggP9DdM0zLIRX2L3ok7WzX-SXLow6oi" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -38,24 +39,20 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="YouTrack" alt="YouTrack" width="40" height="40"/>&nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" title="Sanity" alt="Sanity" width="40" height="40"/>&nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/sentry-3.svg" title="Sentry" alt="Sentry" width="40" height="40"/>
-</div>
-
-
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
-<img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
-</p>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
-</p>
+    <br><br>
+    <!-- Вторая строка -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+    <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>
+    <br><br>
+    <!-- Третья строка -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
 
